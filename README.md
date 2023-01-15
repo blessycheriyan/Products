@@ -33,3 +33,21 @@ Pstgresql
 Postman
 
 
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/60100410/212551865-8d8e1e02-2f91-489a-a41b-d7b610ee0798.png">
+
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/60100410/212551897-b59bfbc8-030b-43d2-a3a1-174283bea47d.png">
+
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/60100410/212551921-9ce4afa9-fa10-4b0a-a649-56784cdae61d.png">
+
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/60100410/212551994-b5559ef2-eb0b-4e0f-bd85-273e9ceae338.png">
+
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/60100410/212552111-047d50e4-8208-4e5c-94b9-62910264d76b.png">
+
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/60100410/212552168-2bae122d-5b9b-446f-b26f-9f7fce70b2fb.png">
+
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/60100410/212552261-2cfba397-2430-4ffb-a0a5-9feb1982b15a.png">
+
+
+
+
+
