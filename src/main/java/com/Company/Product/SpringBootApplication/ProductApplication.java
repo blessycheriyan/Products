@@ -34,10 +34,9 @@ public class ProductApplication {
 		return new ApiInfoBuilder().title("Book Service")
 				.description("Sample Documentation Generateed Using SWAGGER2 for our Book Rest API")
 				.termsOfServiceUrl("")
-				.license(")
+				.license("")
 				.licenseUrl("").version("1.0").build();
 	}
-	
-	
+		
 
 }
